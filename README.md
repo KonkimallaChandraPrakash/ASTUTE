@@ -9,7 +9,9 @@ DEMO : https://www.youtube.com/watch?v=2R5lLBG0SQ4
 This is project is done by our group members at IIT Hyderabad as a Course Project with financial support from IIT Hyderabad(Thanks a lot
 for opportunity)
 
-Project Partners :
+
+    Project Partners :
+
       N.SAI GANESH 
       
       V.CHANDRAKIRAN
